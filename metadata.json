@@ -1,0 +1,6 @@
+{
+  "name": "Shelf Life",
+  "description": "Minimalist food expiration tracker to reduce waste and save money. Entirely local and privacy-focused.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
